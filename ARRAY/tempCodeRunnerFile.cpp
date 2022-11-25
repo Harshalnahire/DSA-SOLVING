@@ -1,0 +1,1 @@
+swapAlternate(even,6);
